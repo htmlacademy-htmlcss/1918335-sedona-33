@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александра Решетникова](https://up.htmlacademy.ru/htmlcss/33/user/1918335).
-* Наставник: `Неизвестно`.
+* Наставник: [Анатолий Пазюк](https://up.htmlacademy.ru/profession/frontender/13/htmlcss/user/380487).
 
 ---
 
